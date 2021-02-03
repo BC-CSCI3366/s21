@@ -11,7 +11,8 @@
 + Zoom link on course canvas page
 
 **Teaching Assistant:** Brian Ward
-
++ Office Hours: Wednesdays & Fridays 1:30PM - 2:45PM and by appointment.
++ Zoom link on course canvas page
 ---
 
 [Canvas](https://bostoncollege.instructure.com/courses/1615476/gradebook)  — [Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Pervasives](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Pervasives.html) — [Lib](./resources/lib.md) — [Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [OCaml.org](https://ocaml.org/) — [OPAM](https://opam.ocaml.org/) — [Dune](https://dune.build/) — [Coding in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/) — [Try OCaml](https://try.ocamlpro.com/) 
