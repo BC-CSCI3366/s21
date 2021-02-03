@@ -7,7 +7,8 @@
 **Meets:** Tuesdays & Thursdays 1:30PM - 2:45PM Merkert 130
 
 **Instructor:** [Joseph Tassarotti](http://www.cs.bc.edu/~tassarot/)
-+ Office Hours: TBA
++ Office Hours: Mondays & Fridays 11:00am - noon
++ Zoom link on course canvas page
 
 **Teaching Assistant:** Brian Ward
 + Office Hours: Mondays & Wednesdays 1:30PM - 2:45PM and by appointment.
