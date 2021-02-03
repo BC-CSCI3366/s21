@@ -11,8 +11,6 @@
 + Zoom link on course canvas page
 
 **Teaching Assistant:** Brian Ward
-+ Office Hours: Mondays & Wednesdays 1:30PM - 2:45PM and by appointment.
-+ Zoom link on course canvas page
 
 ---
 
