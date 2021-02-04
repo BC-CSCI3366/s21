@@ -23,7 +23,10 @@
 
 |                    Week                     | Mtng |            | Topic                                                        |
 | :-----------------------------------------: | :--: | :--------: | :----------------------------------------------------------- |
-| 1 |  1   | R 01/28/20 | Introduction and overview; course admin; Review of memory organization & data representation |
+| 1 |  1   | R 01/28/21 | Introduction and overview; course admin |
+|   |  2   | T 02/02/21 | (repeat) |
+| 2 |  3   | R 02/04/21 | Introduction to Ocaml (basic types, functions, defining sum types) |
+
 
 ---
 
