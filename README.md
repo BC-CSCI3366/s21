@@ -62,11 +62,11 @@ questions students might have from the video they watched.
 
 ### Grading
 
-Like most CS courses, CSCI 3366 is very much a "learn by doing" course. Because of the nature of the pandemic and hybrid mode teaching, this year all grades will be determined by problem sets. Grades will be computed on a 120 point scale, over 1 warm-up logistical exercise + 10 planned problem set parts. The points are distributed as follows:
+Like most CS courses, CSCI 3366 is very much a "learn by doing" course. Because of the nature of the pandemic and hybrid mode teaching, this year all grades will be determined by problem sets. Grades will be computed on a 120 point scale, over 1 warm-up logistical exercise + 10 planned problem set parts. The tentative topics of the assignments and points are distributed as follows:
 
-0. Join (2 Points) — joining GitHub & the BC-CSCI3366 organization
-1. Getting Started (6 Points) --- System Config; Review of Sets
-2. Getting Started with OCaml (10 Points)
+0. Join (2 Points) — joining GitHub, system configuration
+1. Getting Started With OCaml (1) (10 Points)
+2. More Steps with OCaml (2) (6 Points)
 3. Tokens and Trees (10 Points)
 4. Grammars & Parsing (12 Points) --- A grammar for Java and a parser for Mercury
 5. A Call-by-Name Interpreter for Venus (12 Points)
