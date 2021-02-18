@@ -26,6 +26,9 @@
 | 1 |  1   | R 01/28/21 | Introduction and overview; course admin |
 |   |  2   | T 02/02/21 | (repeat) |
 | 2 |  3   | R 02/04/21 | Introduction to OCaml (basic types, functions, defining sum types) |
+|   |  4   | T 02/09/21 | Products, records and lists in OCaml |
+| 3 |  5   | R 02/11/21 | Higher-order functions on lists and trees |
+|   |  6   | T 02/16/21 | Imperative code and Modules |
 
 
 ---
