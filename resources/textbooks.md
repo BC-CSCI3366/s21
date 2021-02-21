@@ -1,12 +1,29 @@
 # CSCI 3366 Programming Languages
 
 
+## OCaml Textbooks and Tutorials
+
+There are a number of free OCaml tutorials and books that can supplement the coverage in class and provide material for those who wish to learn more.
+
+[OCaml.org Tutorials](https://ocaml.org/learn/tutorials/) 
+
+These tutorials cover different aspects of the language and supporting tools (build managers, debuggers, profilers).
+
+[OCaml Language Manual](https://ocaml.org/releases/4.11/htmlman/index.html)
+
+The official language manual is surprisingly readable, and Part I gives a nice introduction to the language and its various features. Chapter 3 covers OCaml's object system, which we won't make use of in this course, so you can skip that.
+
+[Real World OCaml](https://dev.realworldocaml.org/), by Yaron Minsky, Anil Madhavapeddy, and Jason Hickey.
+
+A very comprehensive book (with free online version). Be aware that the book uses an alternative standard library called Base, which we won't be using. However, you can still learn a lot about the language and its features by reading the book.
+
+[Using, Understanding, and Unraveling the OCaml Language](http://caml.inria.fr/pub/docs/u3-ocaml/), by Didier Remy.
+
+For those who want to understand some of the theoretical aspects of the design of OCaml and its features, these lecture notes provide an introduction. This is probably best appreciated after completing the course.
+
+## PL Textbooks
+
 Below is a list of recommended supplemental textbooks suggested by Prof. Muller from previous offerings of this course:
-
----
-
-## Textbooks
-
 This course is largely self-contained but it would be helpful to read a textbook on the subject to get another perspective and to broaden your understanding. Of the books listed below Mitchell's book is fairly widely used for undergraduate courses in programming languages.  The other books are a little more advanced and more commonly used for first-year graduate students. All are truly excellent.
 
 ---
