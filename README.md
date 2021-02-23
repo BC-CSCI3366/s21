@@ -30,6 +30,7 @@
 | 3 |  5   | R 02/11/21 | Higher-order functions on lists and trees |
 |   |  6   | T 02/16/21 | Imperative code and Modules |
 | 4 |  7   | R 02/18/21 | Context-free Grammars, Parsing |
+|   |  8   | T 02/23/21 | Removing ambiguity, Example parsers |
 
 
 ---
