@@ -49,19 +49,19 @@ and
   in
   match tokens with
   | Token.TIMES :: tokens ->
-    let (t2Ast, tokens) = factor tokens
+    let (t2Ast, tokens) = term tokens
     in
     (Ast.App { rator = times
              ; rands = [t1Ast; t2Ast]
              }, tokens)
   | Token.DIV :: tokens ->
-    let (t2Ast, tokens) = factor tokens
+    let (t2Ast, tokens) = term tokens
     in
     (Ast.App { rator = div
              ; rands = [t1Ast; t2Ast]
              }, tokens)
   | Token.MOD :: tokens ->
-    let (t2Ast, tokens) = factor tokens
+    let (t2Ast, tokens) = term tokens
     in
     (Ast.App { rator = md
              ; rands = [t1Ast; t2Ast]
