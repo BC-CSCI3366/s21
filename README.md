@@ -31,7 +31,12 @@
 |   |  6   | T 02/16/21 | Imperative code and Modules |
 | 4 |  7   | R 02/18/21 | Context-free Grammars, Parsing |
 |   |  8   | T 02/23/21 | Removing ambiguity, Example parsers |
-
+| 5 |  9   | R 02/25/21 | Inference rules, proof systems |
+|   |  10  | T 03/02/21 | Operational semantics of Mercury |
+| 6 |  11  | R 03/04/21 | No Class |
+|   |  12  | T 03/09/21 | Let-binding, substitution semantics of Venus |
+| 7 |  13  | R 03/11/21 | Environment semantics for Venus |
+|   |  14  | T 03/16/21 | Type checking for Venus |
 
 ---
 
